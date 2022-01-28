@@ -4,6 +4,7 @@
   "location": "Montreal",
   "maps": "https://www.google.com/maps?q=District3",
   "seat": {
+    "id": 0,
     "name": "Floating Seat",
     "image": "https://www.wework.com/ideas/wp-content/uploads/sites/4/2019/12/20190917_WeWork_Carrera11b-99-25_Colombia_007_v1-1120x630.jpg",
     "availability": "6 chairs",
@@ -11,12 +12,14 @@
   },
   "rooms": [
     {
+      "id": 2,
       "name": "Room 1",
       "image": "https://assets-global.website-files.com/5ff621612284ed73d44c11f3/5ff621612284ed9a0d4c1d63_201016_October_MM_conference%20room%20set%20up.png",
       "availability": "10 chairs",
       "amenities": "much meeting room, much WOW"
     },
     {
+      "id": 3,
       "name": "Room 2",
       "image": "https://sensusinc.com/wp-content/uploads/2019/02/cb9df154-14mckeil-interior-80164_0nc0d10nc0d1000000.jpg",
       "availability": "12 chairs",
