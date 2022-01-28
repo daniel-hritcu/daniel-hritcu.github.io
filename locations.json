@@ -1,14 +1,6 @@
 {
-  "locations": [
-    {
-      "name": "District 3 Innovation Hub",
-      "location": "Montreal",
-      "description":"Co-working space, meeting rooms and ideation space."
-    },
-    {
-      "name": "Bio Hub",
-      "location": "Loyola Campus, Montreal",
-      "description":"Wet lab, bio safety room and technical equipments."
-    }
-  ]
+  "id": [0, 1],
+  "name": ["District 3 Innovation Hub",  "Bio Hub"],
+  "location": ["Montreal", "Loyola Campus, Montreal"],
+  "description": ["Co-working space, meeting rooms and ideation space.", "Wet lab, bio safety room and technical equipments."]
 }
